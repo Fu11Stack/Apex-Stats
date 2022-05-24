@@ -43,7 +43,10 @@ ul {
   background: var(--primary-color);
 }
 .body-bg-image {
-  background: var(--primary-color) url("./assets/ASH.png") no-repeat  right;
+  background: var(--primary-color) url("./assets/newtracker.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: right;
 }
 .container {
   max-width: 960px;
@@ -55,7 +58,7 @@ ul {
   margin: 1rem 0;
 }
 .search {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.6);
   border: 4px #fff solid;
   margin-top: 1rem;
   padding: 2rem;
@@ -80,8 +83,11 @@ textarea {
   margin-top: 1rem;
 }
 @media (max-width: 700px) {
-  body {
-    background: var(--primary-color);
+  .body-bg-image {
+    background: url("./assets/newtracker.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: left;
   }
 }
 </style>
