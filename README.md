@@ -16,6 +16,8 @@ Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websi
 
 ▶ Languages and Tools:
 
+<img src="https://i.imgur.com/xCvyn0s.png"></img>
+
 bootstrap chartjs css3 d3js electron express git graphql html5 javascript nextjs nodejs postman react redux sass tailwind webpack xd
 Getting Started with Create React App
 
