@@ -1,4 +1,7 @@
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
+<img src="https://img.shields.io/badge/vue.js-v3.2.1-%234FC08D?style=flat&logo=vue.js" alt="Vue.js"/>
+<img src="https://img.shields.io/npm/v/express?color=%23000000&label=express&logo=Express" alt="Express"/>
+
 ## Available Scripts
 Hello and welcome to Apex Stats
 
