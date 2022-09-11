@@ -1,3 +1,14 @@
+
+Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websites with latest tech!
+
+🔭 I’m currently working on React Projects
+
+📫 How to reach me Jus10Lopez@yahoo.com
+
+▶ Connect with me:
+
+▶ Languages and Tools:
+
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 <img src="https://img.shields.io/badge/vue.js-v3.2.1-%234FC08D?style=flat&logo=vue.js" alt="Vue.js"/>
 <img src="https://img.shields.io/npm/v/express?color=%23000000&label=express&logo=Express" alt="Express"/>
@@ -11,16 +22,6 @@ Hello and welcome to Apex Stats
 This is a tracker utilizing the tracker.gg API
 
 Seach and look up stats across all 3 platforms
-
-Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websites with latest tech!
-
-🔭 I’m currently working on React Projects
-
-📫 How to reach me Jus10Lopez@yahoo.com
-
-▶ Connect with me:
-
-▶ Languages and Tools:
 
 <img src="https://i.imgur.com/xCvyn0s.png"></img>
 
