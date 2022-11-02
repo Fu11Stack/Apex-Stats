@@ -5,7 +5,7 @@ Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websi
 
 📫 How to reach me Jus10Lopez@yahoo.com
 
-Check out the live site @ 
+Check out the live site:
 
 ▶ Languages and Tools:
 
